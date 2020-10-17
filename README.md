@@ -11,7 +11,7 @@ This program imports and analyzes data from the last two years of the Dow Jones 
 # Execution
 To execute the program run the notebook dataScience.ipynb.
 
-The first section is used to calculate volatility and will have these outputs.
+The first section is used to calculate the volatility and will have these outputs.
 ![](pic1.jpg)
 ![](pic2.jpg)
 
